@@ -8,4 +8,4 @@
 # SQL
 | Project Name | Description |
 | -- | -- |
-| Analyzing Data Science Positions(https://github.com/lil-ds/portfolio/blob/main/SQL/Analysis%20of%20Careers%20in%20Data%20Science) |  |
+| [Analyzing Data Science Positions](https://github.com/lil-ds/portfolio/blob/main/SQL/Analysis%20of%20Careers%20in%20Data%20Science) |  |
